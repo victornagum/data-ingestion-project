@@ -1,0 +1,101 @@
+EmployeeID,Name,Department,JobTitle,Salary,HireDate,Status
+EMP0001,John Santos,IT,Software Developer,23379,2019-03-31,Active
+EMP0002,Jane Santos,HR,HR Specialist,24758,2019-06-22,Active
+EMP0003,  MICHAEL CRUZ  ,Finance,Accountant,26137,2019-09-13,Active
+EMP0004,Maria Cruz,Sales,Sales Executive,27516,2019-12-05,Active
+EMP0005,David Reyes,Marketing,Marketing Specialist,28895,2020-02-26,Active
+EMP0006,Anna Reyes,it,Operations Specialist,30274,2020-05-19,Active
+EMP0007,James Garcia,IT,Data Analyst,31653,2020-08-10,Active
+EMP0008,Sarah Garcia,HR,Recruitment Officer,33032,2020-11-01,Active
+EMP0009,Robert Dela Cruz,Human Resources,Financial Analyst,34411,2021-01-23,Active
+EMP0010,Emily Dela Cruz,Sales,Account Manager,35790,2021-04-16,Active
+EMP0011,Daniel Mendoza,Marketing,Digital Marketing Officer,37169,2021-07-08,Inactive
+EMP0012,Sophia Mendoza,Operations,software developer,38548,2021-09-29,Active
+EMP0013,Christopher Torres,IT,IT Support Specialist,39927,2021-12-21,Active
+EMP0014,Olivia Torres,HR,HR Assistant,41306,2022-03-14,Active
+EMP0015,Matthew Navarro,Finance,Accounting Assistant,"42,685",2022-06-05,Active
+EMP0016,Grace Navarro,Sales,Sales Representative,44064,2022-08-27,Active
+EMP0017,Andrew Bautista,Marketing,Marketing Assistant,45443,2022-11-18,Active
+EMP0018,Hannah Bautista,Operations,Operations Assistant,46822,2023/02/09,Active
+EMP0019,Joseph Rivera,IT,System Administrator,48201,2023-05-03,Active
+EMP0020,Nicole Rivera,HR,HR Specialist,49580,2023-07-25,Active
+EMP0021,William Gonzales,Finance,Accountant,50959,2023-10-16,active
+EMP0022,Ava Gonzales,Sales,Sales Executive,52338,2024-01-07,Inactive
+EMP0023,Anthony Castillo,Marketing,Marketing Specialist,53717,2024-03-30,Active
+EMP0024,Maria  Santos,Operations,Operations Specialist,55096,2024-06-21,Active
+EMP0025,Joshua Aquino,IT,Software Developer,56475,2024-09-12,Active
+EMP0026,Ella Aquino,HR,Recruitment Officer,57854,2024-12-04,Active
+EMP0027,Ryan Ramos, Finance ,Financial Analyst,59233,2025-02-25,Active
+EMP0028,Chloe Ramos,Sales,Account Manager,60612,2025-05-19,Active
+EMP0029,Kevin Villanueva,Marketing,Digital Marketing Officer,61991,2025-08-10,Active
+EMP0030,Samantha Villanueva,Operations,Operations Coordinator,N/A,2025-11-01,Active
+EMP0031,John Flores,IT,Data Analyst,64749,2026-01-23,Active
+EMP0032,Jane Flores,HR,HR Assistant,66128,2019-03-04,Active
+EMP0033,Michael Mercado,Finance,Accounting Assistant,67507,,Inactive
+EMP0034,Maria Mercado,Sales,Sales Representative,68886,2019-08-17,Active
+EMP0035,David Fernandez,Marketing,Marketing Assistant,22264,2019-11-08,Active
+EMP0036,Anna Fernandez,Operations,Operations Assistant,23643,2020-01-30,INACTIVE
+EMP0037,James Lim,IT,IT Support Specialist,25022,2020-04-22,Active
+EMP0038,Sarah Lim,HR,HR Specialist,26401,2020-07-14,Active
+EMP0039,JOHN CRUZ,Finance,Accountant,27780,2020-10-05,Active
+EMP0040,Emily Tan,Sales,Sales Executive,29159,2020-12-27,Active
+EMP0041,Daniel Santos,Marketing,Marketing Specialist,30538,2021-03-20,Active
+EMP0042,Sophia Santos,Operations ,Operations Specialist,31917,2021-06-11,Active
+EMP0043,Christopher Cruz,IT,System Administrator,33296,2021-09-02,Active
+EMP0044,Olivia Cruz,HR,Recruitment Officer,34675,2021-11-24,Inactive
+EMP0045,Matthew Reyes,Finance,Accountant ,36054,2022-02-15,Active
+EMP0046,Grace Reyes,Sales,Account Manager,37433,2022-05-09,Active
+EMP0047,Andrew Garcia,Marketing,Digital Marketing Officer,38812,2022-07-31,Active
+EMP0048,Hannah Garcia,Operations,Operations Coordinator,-1500,2022-10-22,Active
+EMP0049,Joseph Dela Cruz,IT,Software Developer,41570,2023-01-13,Active
+EMP0050,Nicole Dela Cruz,HR,HR Assistant,42949,2023-04-06,Active
+EMP0051,William Mendoza,Finance,Accounting Assistant,44328,2021/13/45,Active
+EMP0052,Ava Mendoza,Sales,Sales Representative,45707,2023-09-19,Active
+EMP0053,Anthony Torres,Marketing,Marketing Assistant,47086,2023-12-11,Active
+EMP0054,Mia Torres,Operations,Operations Assistant,48465,2024-03-03,Actve
+EMP0055,Joshua Navarro,IT,Data Analyst,49844,2024-05-25,Inactive
+EMP0056,Ella Navarro,HR,HR Specialist,51223,2024-08-16,Active
+EMP0057,,Finance,Accountant,52602,2024-11-07,Active
+EMP0058,Chloe Bautista,Sales,Sales Executive,53981,2025-01-29,Active
+EMP0059,Kevin Rivera,Marketing,Marketing Specialist,55360,2025-04-22,Active
+EMP0060,Samantha Rivera,Sales & Marketing,Operations Specialist,56739,2025-07-14,Active
+EMP0061,John Gonzales,IT,IT Support Specialist,58118,2025-10-05,Active
+EMP0062,Jane Gonzales,HR,Recruitment Officer,59497,2025-12-27,Active
+EMP0063,Michael Castillo,Finance,HR SPECIALIST,60876,2019-02-05,Active
+EMP0064,Maria Castillo,Sales,Account Manager,62255,2019-04-29,Active
+EMP0065,David Aquino,Marketing,Digital Marketing Officer,63634,2019-07-21,Active
+EMP0066,Anna Aquino,Operations,Operations Coordinator,35000 PHP,2019-10-12,Inactive
+EMP0067,James Ramos,IT,System Administrator,66392,2020-01-03,Active
+EMP0068,Sarah Ramos,HR,HR Assistant,67771,2020-03-26,Active
+EMP0069,Robert Villanueva,Finance,Accounting Assistant,69150,not available,Active
+EMP0070,Emily Villanueva,Sales,Sales Representative,22528,2020-09-08,Active
+EMP0071,Daniel Flores,Marketing,Marketing Assistant,23907,2020-11-30,Active
+EMP0072,Sophia Flores,Operations,Operations Assistant,25286,2021-02-21,Inactive 
+EMP0073,Christopher Mercado,IT,Software Developer,26665,2021-05-15,Active
+EMP0074,Olivia Mercado,HR,HR Specialist,28044,2021-08-06,Active
+EMP0075,  matthew fernandez ,Finance,Accountant,29423,2021-10-28,Active
+EMP0076,Grace Fernandez,Sales,Sales Executive,30802,2022-01-19,Active
+EMP0077,Andrew Lim,Marketing,Marketing Specialist,32181,2022-04-12,Inactive
+EMP0078,Hannah Lim,IT ,Operations Specialist,33560,2022-07-04,Active
+EMP0079,Joseph Tan,IT,Data Analyst,34939,2022-09-25,Active
+EMP0080,Nicole Tan,HR,Recruitment Officer,36318,2022-12-17,Active
+EMP0081,William Santos,Finance,Financial Analyst,,2023-03-10,Active
+EMP0082,Ava Santos,Sales,Account Manager,39076,2023-06-01,Active
+EMP0083,Anthony Cruz,Marketing,Digital Marketing Officer,40455,2023-08-23,Active
+EMP0084,Mia Cruz,Operations,Operations Coordinator,41834,2020-02-30,Active
+EMP0085,Joshua Reyes,IT,IT Support Specialist,43213,2024-02-05,Active
+EMP0086,Ella Reyes,HR,HR Assistant,44592,2024-04-28,Active
+EMP0087,Ryan Garcia,Finance,Accounting Assistant,45971,2024-07-20,ACTIVE
+EMP0088,Chloe Garcia,Sales,Sales Representative,47350,2024-10-11,Inactive
+EMP0089,Kevin Dela Cruz,Marketing,Marketing Assistant,48729,2025-01-02,Active
+EMP0090,Emily Santos ,Operations,Operations Assistant,50108,2025-03-26,Active
+EMP0091,John Mendoza,IT,System Administrator,51487,2025-06-17,Active
+EMP0092,Jane Mendoza,HR,HR Specialist,52866,2025-09-08,Active
+EMP0093,Michael Torres,Acctg,Accountant,54245,2025-11-30,Active
+EMP0094,Maria Torres,Sales,Sales Executive,55624,2019-01-09,Active
+EMP0095,David Navarro,Marketing,Marketing Specialist,57003,2019-04-02,Active
+EMP0096,Anna Navarro,Operations,,58382,2019-06-24,Active
+EMP0097,James Bautista,IT,Software Developer,59761,2019-09-15,Active
+EMP0098,Sarah Bautista,HR,Recruitment Officer,61140,2019-12-07,Active
+EMP0099,Robert Rivera,Finance,Financial Analyst,"45,000",2020-02-28,Inactive
+EMP0099,Emily Rivera,Sales,Account Manager,63898,2020-05-21,Active
