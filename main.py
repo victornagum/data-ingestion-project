@@ -27,15 +27,14 @@ try:
         print(selected_file)
 
         print("\n--- FIRST 5 ROWS ---")
-        print(df.head())
-
+        print(df.head())    # df.head() use for getting the first 5 records of the data frame
         print("\n--- DATA SIZE ---")
-        rows, columns = df.shape
+        rows, columns = df.shape    # df.shape use for getting the no. of columns and rows
         print("Rows:", rows)
         print("Columns:", columns)
 
         print("\n--- COLUMNS ---")
-        print(df.columns.tolist())
+        print(df.columns.tolist()) 
 
         print("\n--- DATA TYPES ---")
         print(df.dtypes)
